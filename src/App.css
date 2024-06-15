@@ -1,0 +1,13 @@
+.FolderItems{
+  padding-left:25px;
+}
+.folder {
+  margin-top: 6px;
+  background-color:#acf15e;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 300px;
+  cursor: pointer;
+  padding:5px;
+}
